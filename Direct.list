@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,169ol.com
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com
@@ -115,7 +116,7 @@ DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,169ol.com
+
 
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
