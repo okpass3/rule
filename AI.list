@@ -4,6 +4,11 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
+DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,bangumi.ca
+DOMAIN-SUFFIX,aliz.work
+DOMAIN-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
