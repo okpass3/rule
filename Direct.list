@@ -1,4 +1,4 @@
-p# 直连补充列表(国内域名不解析时，防止走代理使用)
+”p# 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
 # 域名后缀匹配
@@ -42,7 +42,6 @@ DOMAIN-SUFFIX,169ol.com
 DOMAIN-SUFFIX,aliz.work
 DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,odysseyplus.site
-DOMAIN-SUFFIX,sfcj.org
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com
