@@ -49,7 +49,7 @@ custom_proxy_group=德国-自动`url-test`(Germany|德国)`http://www.gstatic.co
 custom_proxy_group=菲律宾-自动`url-test`(Philippines|菲律宾)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=越南-自动`url-test`(Vietnam|越南)`http://www.gstatic.com/generate_204`180,5,100
 custom_proxy_group=美国-自动`url-test`(广美|美|US|纽约|波特兰|达拉斯|俄勒|凤凰城|费利蒙|硅谷|拉斯|洛杉|圣何塞|圣克拉|西雅|芝加|🇺🇸|United|United States)`http://www.gstatic.com/generate_204`180,5,100
-custom_proxy_group=其他-自动`url-test`(波|柬|尼|也|克|比|尔|立|冰|秘|耳|利|埃|希|孟|芬|愛|澳|英|南|意|法|拿|墨|印|瑞|智|荷|比|巴|沙|班|泰|德|烏|以|Australia|Konghwaguk)`http://www.gstatic.com/generate_204`180,5,100
+custom_proxy_group=其他-自动`url-test`(波|柬|尼|也|克|比|尔|立|冰|秘|耳|利|埃|希|孟|芬|愛|澳|英|南|意|法|拿|墨|印|瑞|智|荷|比|巴|沙|班|泰|烏|以|Australia|Konghwaguk)`http://www.gstatic.com/generate_204`180,5,100
 
 ;4、启用规则集
 enable_rule_generator=true
